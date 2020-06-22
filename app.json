@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Social Dashboard",
+    "slug": "social-dashboard",
+    "description": "Social Dashboard App Starter Kit + React-Native app design kit to kickstart your Social projects.",
+    "privacy": "public",
+    "platforms": ["ios"],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0659FD"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
